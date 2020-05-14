@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+form {
+	font-size: 16px;
+	max-width: 500px;
+	background: #e3e3e3;
+	margin: 0 auto;
+	padding: 0 10px 10px 10px;
+}
+
+h1 {
+	color: #333;
+}
+
+h4 {
+	color: #333;
+	font-weight: bold;
+}
+
+input {
+	width: 470px;
+	padding: 10px;
+}
+
+.enviar input {
+	background: #069;
+	height: 40px;
+	width: 150px;
+	font-weight: bold;
+	border-radius: 10px;
+	color: #FFF;
+	cursor: pointer;
+}
+
+.enviar input:hover {
+	background: #070;
+}
